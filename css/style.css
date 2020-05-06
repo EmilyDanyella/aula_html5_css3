@@ -20,6 +20,7 @@ body {
     float: left;
     border-right: 3px solid #0f0d0d;
 }
+
 .menu li a{ 
     color:#333; text-decoration: none; padding: 5px 10px 5px 0px; display: block;}
 
